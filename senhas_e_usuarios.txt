@@ -1,0 +1,11 @@
+# Usuários testados
+admin
+msfadmin
+user
+service
+
+# Senhas testadas
+123456
+admin
+password
+msfadmin
